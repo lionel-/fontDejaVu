@@ -1,0 +1,11 @@
+Package: fontHeavy
+Title: Heavy Fonts for fontquiver
+Version: 0.1
+Authors@R: person("Lionel", "Henry", , "lionel.hry@gmail.com", c("cre", "aut"))
+Description: Package for fonts too heavy for CRAN, distributed on Github.
+Depends:
+    R (>= 3.3.0)
+License: See all files suffixed with -LICENCE in ./inst/fonts/
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1
