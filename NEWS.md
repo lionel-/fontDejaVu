@@ -1,7 +1,9 @@
 
-# fontHeavy 0.1.0.9000
+# fontDejaVu 0.2.0
 
-# fontHeavy 0.1.0
+Rename package to fontDejaVu
+
+# fontDejaVu 0.1.0
 
 Initial release
 

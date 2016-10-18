@@ -1,8 +1,8 @@
-Package: fontHeavy
-Title: Heavy Fonts for fontquiver
-Version: 0.1.0.9000
+Package: fontDejaVu
+Title: DejaVu fontset for fontquiver
+Version: 0.2.0
 Authors@R: person("Lionel", "Henry", , "lionel.hry@gmail.com", c("cre", "aut"))
-Description: Package for fonts too heavy for CRAN, distributed on Github.
+Description: A placeholder for the DejaVu fontset distributed on Github.
 Depends:
     R (>= 3.3.0)
 License: file LICENCE
