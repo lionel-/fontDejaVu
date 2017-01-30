@@ -1,4 +1,8 @@
 
+# fontDejaVu 0.2.0.9000
+
+Change minimum R version to 3.0.0.
+
 # fontDejaVu 0.2.0
 
 Rename package to fontDejaVu

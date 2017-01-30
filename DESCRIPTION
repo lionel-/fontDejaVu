@@ -1,10 +1,10 @@
 Package: fontDejaVu
 Title: DejaVu fontset for fontquiver
-Version: 0.2.0
+Version: 0.2.0.9000
 Authors@R: person("Lionel", "Henry", , "lionel.hry@gmail.com", c("cre", "aut"))
 Description: A placeholder for the DejaVu fontset distributed on Github.
 Depends:
-    R (>= 3.3.0)
+    R (>= 3.0.0)
 License: file LICENCE
 Encoding: UTF-8
 LazyData: true
